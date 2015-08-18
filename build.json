@@ -9,10 +9,9 @@
     ],
     "arm": "",
     "battery": [
-      "Futaba R2008SB"
     ],
     "osd": "TBS Core",
-    "receiver": "",
+    "receiver": "Futaba R2008SB",
     "flightcam": "Lumenier/CS-600-Super---600TVL-D-WDR-Camera-(no-case)",
     "hqcam": "GoPro/HERO3+-Silver-Edition",
     "videotx": "Lumenier TX5G6 Mini 600mW 5.8GHz",
