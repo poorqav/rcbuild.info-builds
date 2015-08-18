@@ -9,12 +9,13 @@
     ],
     "arm": "",
     "battery": [
+      "Giant Power 14.8V 1500mAh 65C"
     ],
-    "osd": "",
-    "receiver": "",
-    "flightcam": "",
-    "hqcam": "",
-    "videotx": "",
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "receiver": "Futaba R2008SB",
+    "flightcam": "Lumenier/CS-600-Super---600TVL-D-WDR-Camera-(no-case)",
+    "hqcam": "GoPro/HERO3+-Silver-Edition",
+    "videotx": "ImmersionRC 5.8GHz 600mW",
     "blackbox": "",
     "voltagereg": ""
   },
