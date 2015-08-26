@@ -1,11 +1,11 @@
 {
   "config": {
     "frame": "Lizard-rc Scorpia 290",
-    "esc": "DYS Mini 20A (BL20A, SN20A)",
-    "motor": "T-Motor MN2206 2000kv",
+    "esc": "DYS/Mini-20A",
+    "motor": "T-Motor/MN2206-2000kv",
     "fc": "ReadyToFlyQuads/CC3D",
     "prop": [
-      "HQProp/6x4.5-FG-BN"
+      "HQProp/6x4.5-FG-DD"
     ],
     "arm": "",
     "battery": [
