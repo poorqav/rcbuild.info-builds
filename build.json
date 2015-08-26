@@ -5,7 +5,6 @@
     "motor": "T-Motor/MN2206-2000kv",
     "fc": "ReadyToFlyQuads/CC3D",
     "prop": [
-      "HQProp/6x4.5-FG-DD"
     ],
     "arm": "",
     "battery": [
@@ -15,7 +14,7 @@
     "receiver": "Futaba R2008SB",
     "flightcam": "Lumenier/CS-600-Super---600TVL-D-WDR-Camera-(no-case)",
     "hqcam": "GoPro/HERO3+-Silver-Edition",
-    "videotx": "ImmersionRC 5.8GHz 600mW",
+    "videotx": "ImmersionRC/5.8GHz-600mw",
     "blackbox": "",
     "voltagereg": ""
   },
